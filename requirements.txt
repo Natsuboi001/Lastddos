@@ -2,8 +2,6 @@ flask
 telebot
 requests
 logging
-time
 pymongo
 certifi
-asyncio
 aiohttp
